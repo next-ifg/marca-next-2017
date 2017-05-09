@@ -1,0 +1,26 @@
+#+TITLE: Repositório de Marca do NExT
+#+AUTHOR: Pedro Maione
+
+* Apresentação
+
+Em 2013, alguns pesquisadores do IFG criaram o *Núcleo de Estudos e
+  Pesquisas Experimentais e Tecnológicas* (NExT) do Instituto Federal de
+  Goiás, que nasceu da vontade de realizar pesquisas de alto nível (básica e
+  aplicada) e investigar conjuntamente, entre os seus departamentos e de outras
+  instituições e dentro das linhas de pesquisa estabelecidas e enquadradas em
+  áreas de concentração da Coordenadoria de Aperfeiçoamento de Pessoal de Nível
+  Superior (CAPES) e do Conselho Nacional de Desenvolvimento Científico e
+  Tecnológico (CNPq).
+
+  Acesso ao Diretório de Grupos de Pesquisa no Brasil:\\ \url{http://dgp.cnpq.br/dgp/espelhogrupo/0235687263399443}
+
+  
+** Área predominante
+   Engenharias; Engenharia Elétrica
+
+** Linhas de pesquisa
+
+   - Controle e Automação de Processos
+   - Modelagem, Otimização e Simulação de Sistemas
+   - Sistema Elétrico de Potência
+
