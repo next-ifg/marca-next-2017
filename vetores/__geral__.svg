@@ -37,11 +37,11 @@
      inkscape:window-height="1058"
      inkscape:window-width="1918"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6132"
      inkscape:document-units="px"
-     inkscape:cy="133.83339"
-     inkscape:cx="737.71895"
-     inkscape:zoom="0.54491566"
+     inkscape:cy="477.16178"
+     inkscape:cx="529.89594"
+     inkscape:zoom="0.38531356"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1057,27 +1057,27 @@
          transform="scale(0.8) translate(12.5,0)" />
     </marker>
     <color-profile
-       id="color-profile159"
+       id="color-profile141"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile161"
+       id="color-profile143"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile163"
+       id="color-profile145"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
-       id="color-profile165"
+       id="color-profile147"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile167"
+       id="color-profile149"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile169"
+       id="color-profile151"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <marker
@@ -1133,27 +1133,27 @@
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z " />
     </marker>
     <color-profile
-       id="color-profile179"
+       id="color-profile161"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile181"
+       id="color-profile163"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile183"
+       id="color-profile165"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
-       id="color-profile185"
+       id="color-profile167"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile187"
+       id="color-profile169"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile189"
+       id="color-profile171"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <pattern
@@ -1253,53 +1253,53 @@
          y="163.38542" />
     </clipPath>
     <color-profile
-       id="color-profile208"
+       id="color-profile190"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile210"
+       id="color-profile192"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile212"
+       id="color-profile194"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile214" />
+       id="color-profile196" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile216" />
+       id="color-profile198" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile218" />
+       id="color-profile200" />
     <color-profile
-       id="color-profile220"
+       id="color-profile202"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile222"
+       id="color-profile204"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile224"
+       id="color-profile206"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile226" />
+       id="color-profile208" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile228" />
+       id="color-profile210" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile230" />
+       id="color-profile212" />
     <pattern
        patternTransform="matrix(0.26458333,0,0,0.26458333,4.770895,434.07448)"
        id="pattern5140"
@@ -1784,27 +1784,27 @@
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile297" />
+       id="color-profile279" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile299" />
+       id="color-profile281" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile301" />
+       id="color-profile283" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile303" />
+       id="color-profile285" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile305" />
+       id="color-profile287" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile307" />
+       id="color-profile289" />
     <marker
        inkscape:stockid="Arrow1Lstart"
        style="overflow:visible"
@@ -1864,27 +1864,27 @@
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile317" />
+       id="color-profile299" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile319" />
+       id="color-profile301" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile321" />
+       id="color-profile303" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile323" />
+       id="color-profile305" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile325" />
+       id="color-profile307" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile327" />
+       id="color-profile309" />
     <pattern
        id="pattern16433-6"
        patternTransform="matrix(0.26458333,0,0,0.26458333,3.96875,298.32293)"
@@ -2562,19 +2562,19 @@
       <path
          sodipodi:nodetypes="ccccccccccc"
          d="m 445.58797,185.72735 34.34627,59.48948 h 20.98942 v -95.40627 h -20.98942 v 59.48948 l -34.34627,-59.48948 -20.98937,-7e-5 v 95.4063 h 20.98937 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95406443"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.95406443"
          id="path5456"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccccccccccc"
          d="m 567.70806,149.81053 h -57.24378 v 95.4063 h 57.24378 v -19.08124 h -36.25441 v -19.08128 h 36.25441 V 187.97304 H 531.45365 V 168.8918 h 36.25441 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95406443"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.95406443"
          id="path5458"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccccccc"
          d="m 645.94122,168.8918 h 21.94347 v 76.32503 h 20.98937 V 168.8918 h 21.94347 v -19.08127 h -64.87631 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95406443"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.95406443"
          id="path5460"
          inkscape:connector-curvature="0" />
       <path
