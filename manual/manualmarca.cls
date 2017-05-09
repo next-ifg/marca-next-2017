@@ -15,6 +15,7 @@
 \RequirePackage[explicit]{titlesec}
 \RequirePackage[rightlabels]{titletoc}
 \RequirePackage{fancyhdr}
+\RequirePackage{array}
 
 \RequirePackage[%
 colorlinks=true,
@@ -26,9 +27,38 @@ colorlinks=true,
 \newcommand{\NExT}{\href{http://nextpesquisa.com.br/}{NExT}}
 
 \newcommand{\TituloDocumento}[1]{\gdef\@TituloDocumento{#1}}
+\newcommand{\InstituicaoDocumento}[1]{\gdef\@InstituicaoDocumento{#1}}
 \newcommand{\AutorDocumento}[1]{\gdef\@AutorDocumento{#1}}
 \newcommand{\DataDocumento}[1]{\gdef\@DataDocumento{#1}}
 \newcommand{\VersaoDocumento}[1]{\gdef\@VersaoDocumento{#1}}
+
+% Aumenta o espaço interno das celulas da tabela
+\renewcommand*{\arraystretch}{1.5}
+
+\newcommand*{\CabTabela}[1]{\multicolumn{1}{c}{\bfseries #1}}
+
+\newcommand{\Revisao}[4]{#1 & #2 & #3 & #4 \\ \hline}
+\newenvironment{TabelaRevisao}{%
+  \begin{center}
+    \begin{tabular*}{.8\linewidth}{cccm{6cm}}
+      \hline \hline
+      \CabTabela{Versão} & \CabTabela{Data} & \CabTabela{Responsável} & \CabTabela{Descrição} \\
+      \hline \hline
+      }{%&&&
+    \end{tabular*}
+  \end{center}
+}
+
+% Desabilita a indetação automática de paragrafos.
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{12pt}
+
+% Aumenta o espaço entre as figuras e o texto
+\setlength{\textfloatsep}{30pt plus 20pt minus 10pt}
+\setlength{\intextsep}{30pt plus 20pt minus 10pt}
+
+
+% Aumenta o espaço entre paragrafos
 
 % Configuração de fontes
 \setmainfont[%
@@ -42,6 +72,7 @@ BoldItalicFont={Open Sans Bold Italic},%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \defaultfontfeatures{Ligatures=TeX}
 \frenchspacing
+
 % For source code
 \setmonofont[%
 BoldFont=DejaVu Sans Mono Bold,
@@ -49,18 +80,18 @@ BoldFont=DejaVu Sans Mono Bold,
 
 % Normal font
 \setsansfont{Open Sans}[
-% Numbers=OldStyle,
 BoldFont=Open Sans Bold,
 ItalicFont=Open Sans Italic,
 BoldItalicFont=Open Sans Bold Italic,
 ]
+
 % Font for section, subsection, subsubsection, etc
 \newfontfamily{\titlefont}{Roboto Condensed}[
-Numbers=OldStyle,
 BoldFont=Roboto Condensed Regular,
 ItalicFont=Roboto Condensed Italic,
 BoldItalicFont=Roboto Condensed Bold Italic,
 ]
+
 % Font for chapter number
 \newfontfamily{\upperNumber}{Roboto}[
 BoldFont=Roboto Regular,
@@ -93,32 +124,43 @@ includehead,
 % \setlength{\parindent}{0ex}
 
 % Configuração do Cabeçalho
+% \lhead{%
+%   \null
+%   \vfill
+%   \parbox{.33\textwidth}{%
+%     \@InstituicaoDocumento%
+%   }
+%   \vfill
+% }
 \lhead{%
   \null
   \vfill
-  Núcleo de Estudos e Pesquisas\\
-  Experimentais e Tecnológicas%\
+  \includegraphics[height=1.25cm]{logo-instituicao}
   \vfill
 }
-\chead{}
 \rhead{%
-  \includegraphics[height=1.5cm]{logo-next-color}
+  \null
+  \vfill
+  \includegraphics[height=1cm]{logo-nucleo}
+  \vfill
 }
 
-\lfoot{\@TituloDocumento{} - \NExT}
-\cfoot{Versão: \@VersaoDocumento}
-\rfoot{\thepage}
+\lfoot{\@TituloDocumento{} \\ \@InstituicaoDocumento}
+\cfoot{}
+\rfoot{%
+  \null
+  \vfill
+  \thepage
+  \vfill
+}
 
 \renewcommand*{\footrulewidth}{1pt}
 \renewcommand*{\headrulewidth}{2pt}
 
 % Define as Cores da Paleta
 
-\definecolor[named]{NextVermelho}{HTML}{FF1D06}
-
-\definecolor[named]{NextCinza}{HTML}{262626}
-\definecolor[named]{NextCinzaClaro}{HTML}{676767}
-
+\definecolor[named]{CorPrimaria}{HTML}{FF1D06}
+\definecolor[named]{CorSecundaria}{HTML}{262626}
 
 % ==============================================================================
 % CAPA DO MANUAL
@@ -137,11 +179,11 @@ includehead,
             \fontsize{30pt}{36pt}\selectfont
             \fontspec{Roboto Condensed Bold}
             \MakeUppercase\@TituloDocumento\\
-            {\color{NextCinza}\rule[4mm]{\linewidth}{1mm}}\\
+            {\color{CorSecundaria}\rule[4mm]{\linewidth}{1mm}}\\
             {%
               \fontspec{Roboto Light}
-              \LARGE\color{NextVermelho}
-              Núcleo de Estudos e Pesquisas Experimentais e Tecnológicas
+              \LARGE\color{CorPrimaria}
+              \@InstituicaoDocumento
             }
           }
         }
@@ -153,47 +195,20 @@ includehead,
   %
   % Contra Capa
   %
-  
-  \vspace*{\stretch{1}}
-  {%
-    \noindent\huge\color{NextVermelho}
-    A história do NExT}\\
-  \vspace*{1cm}
-  \noindent
 
-  Em 2013, alguns pesquisadores do IFG criaram o \textbf{Núcleo de Estudos e
-    Pesquisas Experimentais e Tecnológicas} (\NExT{}) do Instituto Federal de
-  Goiás, que nasceu da vontade de realizar pesquisas de alto nível (básica e
-  aplicada) e investigar conjuntamente, entre os seus departamentos e de outras
-  instituições e dentro das linhas de pesquisa estabelecidas e enquadradas em
-  áreas de concentração da Coordenadoria de Aperfeiçoamento de Pessoal de Nível
-  Superior (CAPES) e do Conselho Nacional de Desenvolvimento Científico e
-  Tecnológico (CNPq).
-
-  \vspace*{1cm}
-  Acesso ao Diretório de Grupos de Pesquisa no Brasil:\\ \url{http://dgp.cnpq.br/dgp/espelhogrupo/0235687263399443}
-
-  \vspace*{1cm}
-  Área predominante: Engenharias; Engenharia Elétrica
-
-  \vspace*{1cm}
-  Linhas de pesquisa:
-
-  \begin{itemize}
-  \item Controle e Automação de Processos
-  \item Modelagem, Otimização e Simulação de Sistemas
-  \item Sistema Elétrico de Potência
-  \end{itemize}
-
-
-    \vspace*{\stretch{1}}
+    \vspace*{\stretch{2}}
     \begin{tabular}{ll}
       \textbf{Autor}& \@AutorDocumento\\
       \textbf{Data}& \@DataDocumento\\
       \textbf{Versão}& \@VersaoDocumento\\
     \end{tabular}
+    
+    \vspace*{\stretch{2}}
+
+    \input{tab-revisoes.tex}
 
     \vspace*{\stretch{1}}
+    \pagebreak[4]
 }
 
 % ==============================================================================
@@ -254,4 +269,5 @@ includehead,
 
 %%% Local Variables: 
 %%% coding: utf-8
+%%% TeX-engine: xetex 
 %%% End: 

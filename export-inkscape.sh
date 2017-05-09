@@ -17,7 +17,7 @@ for f in ./vetores/[^_]*.svg; do
     echo 'Convertendo arquivo: ' $file '... '
     for ext in ${diretorios_export[@]}; do
 	echo -n 'Formato: ' $ext '... '
-	inkscape --file=$f --export-dpi=300 --export-$ext=$ext/$file
+	inkscape --file=$f --export-dpi=300 --export-$ext=$ext/$file.$ext
 	echo 'Pronto!'
     done
 done
