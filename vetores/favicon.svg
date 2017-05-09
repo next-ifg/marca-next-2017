@@ -10,16 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="_logo-next-sombra.svg"
+   sodipodi:docname="favicon.svg"
    inkscape:version="0.92.1 r"
    id="svg8"
    version="1.1"
-   viewBox="0 0 79.374997 26.458334"
-   height="100"
-   width="300"
-   inkscape:export-filename="/home/pmaione/ifg-cite-next/id-visual/id-visual-next/proposta 2017/_logo-next-sombra.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   viewBox="0 0 12.7 12.7"
+   height="48"
+   width="48">
   <sodipodi:namedview
      inkscape:snap-text-baseline="true"
      inkscape:snap-center="true"
@@ -40,11 +37,11 @@
      inkscape:window-height="1058"
      inkscape:window-width="1918"
      showgrid="false"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-66.799066"
-     inkscape:cx="397.00805"
-     inkscape:zoom="2.0364675"
+     inkscape:cy="18.447245"
+     inkscape:cx="33.973027"
+     inkscape:zoom="8.1458701"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -857,27 +854,27 @@
          inkscape:connector-curvature="0" />
     </marker>
     <color-profile
-       id="color-profile163"
+       id="color-profile116"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile166"
+       id="color-profile118"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile168"
+       id="color-profile120"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
-       id="color-profile170"
+       id="color-profile122"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile172"
+       id="color-profile124"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile174"
+       id="color-profile126"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <marker
@@ -937,27 +934,27 @@
          inkscape:connector-curvature="0" />
     </marker>
     <color-profile
-       id="color-profile184"
+       id="color-profile136"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile186"
+       id="color-profile138"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile188"
+       id="color-profile140"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
-       id="color-profile190"
+       id="color-profile142"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile192"
+       id="color-profile144"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile194"
+       id="color-profile146"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <pattern
@@ -1057,53 +1054,53 @@
          y="163.38542" />
     </clipPath>
     <color-profile
-       id="color-profile213"
+       id="color-profile165"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile215"
+       id="color-profile167"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile217"
+       id="color-profile169"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile219" />
+       id="color-profile171" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile221" />
+       id="color-profile173" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile223" />
+       id="color-profile175" />
     <color-profile
-       id="color-profile225"
+       id="color-profile177"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
        name="Best-RGB" />
     <color-profile
-       id="color-profile227"
+       id="color-profile179"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
        name="Compatible-with-Adobe-RGB--1998-" />
     <color-profile
-       id="color-profile229"
+       id="color-profile181"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
        name="sRGB" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile231" />
+       id="color-profile183" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile233" />
+       id="color-profile185" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile235" />
+       id="color-profile187" />
     <marker
        inkscape:stockid="DotM"
        orient="auto"
@@ -1391,27 +1388,27 @@
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile302" />
+       id="color-profile229" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile304" />
+       id="color-profile231" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile306" />
+       id="color-profile233" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile308" />
+       id="color-profile235" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile310" />
+       id="color-profile237" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile312" />
+       id="color-profile239" />
     <marker
        inkscape:stockid="Arrow1Lstart"
        style="overflow:visible"
@@ -1471,27 +1468,27 @@
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile322" />
+       id="color-profile249" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile324" />
+       id="color-profile251" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile326" />
+       id="color-profile253" />
     <color-profile
        name="Best-RGB"
        xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       id="color-profile328" />
+       id="color-profile255" />
     <color-profile
        name="Compatible-with-Adobe-RGB--1998-"
        xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       id="color-profile330" />
+       id="color-profile257" />
     <color-profile
        name="sRGB"
        xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile332" />
+       id="color-profile259" />
     <pattern
        id="pattern16433-6"
        patternTransform="matrix(0.26458333,0,0,0.26458333,3.96875,298.32293)"
@@ -1588,18 +1585,6 @@
          id="rect16136-5"
          style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.05291668;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.20000005;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;paint-order:stroke fill markers" />
     </clipPath>
-    <color-profile
-       id="color-profile7701"
-       xlink:href="/usr/share/color/icc/colord/BestRGB.icc"
-       name="Best-RGB" />
-    <color-profile
-       id="color-profile7703"
-       xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
-       name="Compatible-with-Adobe-RGB--1998-" />
-    <color-profile
-       id="color-profile7705"
-       xlink:href="/usr/share/color/icc/colord/sRGB.icc"
-       name="sRGB" />
   </defs>
   <metadata
      id="metadata5">
@@ -1618,214 +1603,59 @@
      id="layer5"
      inkscape:label="Fundo"
      style="display:inline"
-     transform="translate(0,-183.54167)">
-    <rect
-       ry="3.4110346e-07"
-       rx="3.4110349e-07"
-       y="139.0022"
-       x="79.507156"
-       height="36.777081"
-       width="89.693748"
-       id="rect4568"
-       style="opacity:1;fill:#262626;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       d="m 90.487367,233.49711 9.525003,16.49778 h 5.82083 v -26.45832 h -5.82083 v 16.49778 l -9.525003,-16.49778 -5.820833,-2e-5 v 26.45833 h 5.820833 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-       id="path28"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccccccccccc"
-       d="m 124.35403,223.53656 h -15.875 v 26.45833 h 15.875 v -5.29166 h -10.05416 v -5.29167 h 10.05416 v -5.29167 h -10.05416 v -5.29166 h 10.05416 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-       id="path30"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccccccc"
-       d="m 146.04987,228.82823 h 6.08541 v 21.16666 h 5.82084 v -21.16666 l 6.08541,0 v -5.29167 l -17.99166,0 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-       id="path34"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3814"
-       d="m 126.99987,234.11988 6.35,1e-5 6.35004,7.9375 -6.35004,7.93738 -6.35,1.2e-4 6.35,-7.93757 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70599997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <g
-       id="g3832"
-       transform="translate(84.666534,-47.00509)">
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66834641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         d="M 210.5,166.875 232,140 h -24 l -9.5,11.875 z"
-         id="path3828"
-         transform="matrix(0.26458333,0,0,0.26458333,0,244.08332)" />
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66834641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         d="M 198.5,188.125 208,200 h 24 l -21.5,-26.875 z"
-         id="path3826"
-         transform="matrix(0.26458333,0,0,0.26458333,0,244.08332)" />
-    </g>
-    <g
-       id="g7788"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <path
-         sodipodi:nodetypes="ccccccccccc"
-         d="m 90.487367,193.80961 9.525003,16.49778 h 5.82083 v -26.45832 h -5.82083 v 16.49778 l -9.525003,-16.49778 -5.820833,-2e-5 v 26.45833 h 5.820833 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-         id="path4524"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccccccccccccc"
-         d="m 124.35403,183.84906 h -15.875 v 26.45833 h 15.875 v -5.29166 h -10.05416 v -5.29167 h 10.05416 v -5.29167 h -10.05416 v -5.29166 h 10.05416 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-         id="path4526"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccccccccc"
-         d="m 146.04987,189.14073 h 6.08541 v 21.16666 h 5.82084 v -21.16666 l 6.08541,1e-5 v -5.29167 l -17.99166,-1e-5 z"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-         id="path4528"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4530"
-         d="m 126.99987,194.43238 6.35,1e-5 6.35004,7.9375 -6.35004,7.93738 -6.35,1.2e-4 6.35,-7.93757 z"
-         style="opacity:1;fill:#ff1d06;fill-opacity:1;stroke:none;stroke-width:0.70599997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-      <g
-         id="g4536"
-         transform="translate(84.666534,-86.69259)"
-         style="fill:#262626;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:2.66834641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-           d="M 210.5,166.875 232,140 h -24 l -9.5,11.875 z"
-           id="path4532"
-           transform="matrix(0.26458333,0,0,0.26458333,0,244.08332)" />
-        <path
-           inkscape:connector-curvature="0"
-           style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:2.66834641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-           d="M 198.5,188.125 208,200 h 24 l -21.5,-26.875 z"
-           id="path4534"
-           transform="matrix(0.26458333,0,0,0.26458333,0,244.08332)" />
-      </g>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path4554"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-       d="m 90.487367,154.12211 9.525003,16.49779 h 5.82083 v -26.45833 h -5.82083 v 16.49778 l -9.525003,-16.49778 -5.820833,-1e-5 v 26.45832 h 5.820833 z"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4556"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-       d="m 124.35403,144.16156 h -15.875 v 26.45834 h 15.875 v -5.29167 h -10.05416 v -5.29167 h 10.05416 v -5.29166 h -10.05416 v -5.29167 h 10.05416 z"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4558"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458353"
-       d="m 146.04987,149.45323 h 6.08541 v 21.16667 h 5.82084 v -21.16667 l 6.08541,1e-5 v -5.29167 l -17.99166,-1e-5 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.70599997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 126.99987,154.74488 6.35,2e-5 6.35004,7.9375 -6.35004,7.93737 -6.35,1.3e-4 6.35,-7.93757 z"
-       id="path4560"
-       inkscape:connector-curvature="0" />
-    <g
-       style="fill:#ffffff"
-       transform="translate(84.666534,-126.38008)"
-       id="g4566">
-      <path
-         transform="matrix(0.26458333,0,0,0.26458333,0,244.08332)"
-         id="path4562"
-         d="M 210.5,166.875 232,140 h -24 l -9.5,11.875 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.66834641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         inkscape:connector-curvature="0" />
-      <path
-         transform="matrix(0.26458333,0,0,0.26458333,0,244.08332)"
-         id="path4564"
-         d="M 198.5,188.125 208,200 h 24 l -21.5,-26.875 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.66834641;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="layer3-7"
-       inkscape:label="linhas-ref"
-       transform="translate(84.666534,223.53655)" />
-    <g
-       inkscape:label="Camada 1"
-       id="layer1-5"
-       transform="translate(84.666534,-47.0051)" />
-  </g>
+     transform="translate(0,-197.3)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Referencia"
      style="display:inline"
-     transform="translate(0,-183.54167)" />
+     transform="translate(0,-197.3)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Titulos"
-     transform="translate(0,-183.54167)" />
+     transform="translate(0,-197.3)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Cabeçalho"
-     transform="translate(0,-183.54167)" />
+     transform="translate(0,-197.3)" />
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-270.54166)">
-    <path
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
-       d="m 42.333206,281.1252 6.350073,7.93738 -10e-5,10e-5 h 6.350073 l -6.349929,-7.93752 z"
-       id="rect5478"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5456"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2645835"
-       d="m 5.8208183,280.50239 9.5249847,16.49776 h 5.820832 v -26.45829 h -5.820832 v 16.49776 L 5.8208183,270.54186 0,270.54184 v 26.4583 h 5.8208183 z"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5458"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2645835"
-       d="M 39.687434,270.54185 H 23.812461 v 26.4583 h 15.874973 v -5.29166 H 29.633281 v -5.29166 h 10.054153 v -5.29166 H 29.633281 v -5.29166 h 10.054153 z"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path5460"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.48169708px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2645835"
-       d="m 61.383228,275.83351 h 6.085413 v 21.16664 h 5.820821 v -21.16664 h 6.085406 v -5.29166 h -17.99164 z"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.70599997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 55.694698,288.23584 5.68853,-7.11066 h -6.349989 l -2.513536,3.14191 z"
-       id="path5464" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:0.70599997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 52.519703,293.85823 2.513536,3.14193 h 6.349989 l -5.68853,-7.11067 z"
-       id="path5466" />
-    <path
-       id="path5485"
-       d="m 42.333206,297.00013 6.350073,-7.93738 -10e-5,-10e-5 h 6.350073 l -6.349929,7.93752 z"
-       style="opacity:1;fill:#c91b08;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#a11406;fill-opacity:1;stroke:none;stroke-width:0.26458332;paint-order:stroke fill markers"
-       d="m 48.683279,289.06275 3.174965,3.96862 3.174965,-3.96877 z"
-       id="path5487"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+     transform="translate(0,-284.29999)">
+    <g
+       id="g5286"
+       transform="matrix(0.66666523,0,0,0.66666523,-28.222101,97.942075)"
+       style="stroke-width:1.50000322">
+      <path
+         id="rect5478"
+         d="m 42.333243,281.12502 6.350077,7.93739 v 1.4e-4 h 6.350078 l -6.349938,-7.93753 z"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.43109858;paint-order:stroke fill markers"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5464"
+         d="m 55.694748,288.23567 5.688536,-7.11067 h -6.349995 l -2.513537,3.14192 z"
+         style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:1.05900228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5466"
+         d="m 52.519752,293.85806 2.513537,3.14193 h 6.349995 l -5.688536,-7.11067 z"
+         style="opacity:1;fill:#262626;fill-opacity:1;stroke:none;stroke-width:1.05900228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#c91b08;fill-opacity:1;stroke:none;stroke-width:0.39687583;paint-order:stroke fill markers"
+         d="m 42.333244,296.99996 6.350078,-7.93738 -1.41e-4,-1.5e-4 h 6.350078 l -6.349937,7.93753 z"
+         id="path5485" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5487"
+         d="m 48.683322,289.06258 3.174965,3.96862 3.174972,-3.96877 z"
+         style="opacity:1;fill:#a11406;fill-opacity:1;stroke:none;stroke-width:0.39687583;paint-order:stroke fill markers" />
+    </g>
     <g
        id="g6562"
        transform="translate(-238.2095,-20.847051)" />
